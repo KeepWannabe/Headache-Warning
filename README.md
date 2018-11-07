@@ -34,14 +34,13 @@ Just Easy Tool, created for some lazy pentester like me :p.
 
 ## Credits
 
-- Thanks to allah and Screetsec [ Edo -maland- ] <Me>
+- Thanks to allah and Screetsec [ Edo Maland ] <Me>
 - Dracos Linux from Scratch Indonesia ( Penetration os ) Thanksyou , you can see in http://dracos-linux.org/
 - Offensive Security for the awesome OS ( http://www.offensive-security.com/ )
-- Thanks peterpt for help and contributes in this project :)) ( www.github.com/peterpt )
-- Dana James Traversie https://github.com/dana-at-cp/backdoor-apk
-- z0noxz (Powerstager) https://github.com/z0noxz/powerstager 
+- Thanks for Arvan for contributing to Finish this Tools (https://github.com/nako48)
+- Dhuhri from Res7ock Crew to inspiring me for make this tools (https://www.facebook.com/MacDhuhri)
+- Bie Steinfeld a.k.a Lord 0Byte, Thanks For RevIP Tools ! (https://github.com/panophan)
 - http://www.kali.org/"
-- Jack Wilder admin in http://www.linuxsec.org
-- source for c program https://github.com/rsmudge
+- Agus Setya R for Supporting me when i get a badmood '-' ( admin IndoXploit )
+- And Thank you somuch for Bayu Fedra for Supporting me for i learn to be better !
 - And another open sources tool in github
-- Uptodate new tools hacking visit http://www.kitploit.com
