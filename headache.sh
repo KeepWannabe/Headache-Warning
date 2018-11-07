@@ -82,9 +82,9 @@ echo   "";
 codestatus(){
 response=$(curl --write-out "%{http_code}\n" --silent --output /dev/null "$1")
 if [[ $response =~ "200" ]]; then
-printf "$1  >  [$response] OK\n"
+printf "$1  >  [$response] ${green} OK\n"
 else
-printf "$1  >  [$response] ERROR\n"
+printf "$1  >  [$response] ${red} ERROR\n"
 fi
 }
 echo ""
