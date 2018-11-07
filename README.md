@@ -17,7 +17,7 @@ Just Easy Tool, created for some lazy pentester like me :p.
 - [![Donation](https://img.shields.io/badge/bitcoin-donate-yellow.svg)](https://blockchain.info/id/address/1NuNTXo7Aato7XguFkvwYnTAFV2immXmjS)
 
 # Screenshots
-<img src="https://raw.githubusercontent.com/bipolarizm/Headache-Warning/master/Screenshot%20from%202018-11-07%2021-55-25.png" width="55%"></img>
+<img src="https://raw.githubusercontent.com/bipolarizm/Headache-Warning/master/Screenshot%20from%202018-11-07%2022-19-39.png" width="55%"></img>
 # ---------------------------------------------------------------
 
 # How its work ?
